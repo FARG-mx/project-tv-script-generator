@@ -1,2 +1,2 @@
-# project3
-Udacity's project3
+# Project3
+Udacity's project3: TV-Script-Generator
